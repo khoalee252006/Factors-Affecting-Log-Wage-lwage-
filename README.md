@@ -61,7 +61,7 @@ The dataset (`wage.xlsx`) contains information on 3,010 individuals.
 
 ## ✍️ Author
 - **[Lê Ngọc Khoa]** - [khoalee252006](https://github.com/khoalee252006)
-- **[Trần Phú Tân]**
+- **[Trần Phú Tân]** - [phutan24072006-ui](https://github.com/phutan24072006-ui)
 
 ---
 *This project was completed as part of the MAI391 (Mathematics for Machine Learning) coursework at FPT University.*
